@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main (void)
+{
+     int x,y;
+     x=9*9;
+     y=10*10;
+     int z=x+y;
+     printf("z=%d.\n",z);
+     return 0;
+}
